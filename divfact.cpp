@@ -1,4 +1,6 @@
+
 /*
+Concepts used:
 (1) Number of divisors of a number using prime factorization.
 (2) All prime numbers less 'n' are prime factors of 'n!'.
 (3) The highest exponent of prime 'p' in 'n!' is sum of floor(n/p^j).It can be also expressed as (n-g(n,p))/(p-1) where g(n,p) is sum of digits of number which is formed when we represent in 'n' in base 'p'.
